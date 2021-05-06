@@ -1,0 +1,1 @@
+# image-clipboard-macro
